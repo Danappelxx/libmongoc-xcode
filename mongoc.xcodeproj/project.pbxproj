@@ -304,8 +304,8 @@
 		3732122A1BEB4F3700442388 /* libsasl2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 373212291BEB4F3700442388 /* libsasl2.tbd */; };
 		3732122C1BEB4F5F00442388 /* bson.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3732122B1BEB4F5F00442388 /* bson.framework */; };
 		3732122E1BEB4F7200442388 /* bson.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 373211FB1BEB49FF00442388 /* bson.framework */; };
-		37905C7C1BEC272A00A5E1BF /* mongoc-config.h in Headers */ = {isa = PBXBuildFile; fileRef = 37905C7B1BEC272A00A5E1BF /* mongoc-config.h */; };
-		37905C7E1BEC273500A5E1BF /* mongoc-config.h in Headers */ = {isa = PBXBuildFile; fileRef = 37905C7D1BEC273500A5E1BF /* mongoc-config.h */; };
+		37905C7C1BEC272A00A5E1BF /* mongoc-config.h in Headers */ = {isa = PBXBuildFile; fileRef = 37905C7B1BEC272A00A5E1BF /* mongoc-config.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		37905C7E1BEC273500A5E1BF /* mongoc-config.h in Headers */ = {isa = PBXBuildFile; fileRef = 37905C7D1BEC273500A5E1BF /* mongoc-config.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
