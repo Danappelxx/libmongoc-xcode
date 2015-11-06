@@ -1,0 +1,3 @@
+[submodule "Carthage/Checkouts/libbson-xcode"]
+	path = Carthage/Checkouts/libbson-xcode
+	url = https://github.com/Danappelxx/libbson-xcode.git
